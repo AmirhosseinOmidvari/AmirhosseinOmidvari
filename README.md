@@ -23,7 +23,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
- <img src="https://gist.githubusercontent.com/AmirohDev/6ed77e27b50822d02f6de1a0a8e4bb37/raw/rust-white.svg" width="45" alt="Rust" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="45" alt="Rust" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML" />
