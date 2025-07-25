@@ -35,9 +35,11 @@
 
 ---
 
+### 📜 Certificates
 
+- 🐍 [Python Programming Certificate – Quera](https://quera.org/certificate/ngcbwm39/)
+- 💻 [C++ Programming Certificate – Quera](https://quera.org/certificate/UmOZf243/)
 
 ---
-
 
 > “Talk is cheap. Show me the code.” – Linus Torvalds
