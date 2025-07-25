@@ -43,7 +43,7 @@
 ### 📫 Contact
 
 - Email: `amirhosein.omidvari83@gmail.com`
-- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/amirhossein-omidvari-947828345)
+- LinkedIn: [www.linkedin.com/in/amirhossein-omidvari-947828345](www.linkedin.com/in/amirhossein-omidvari-947828345)
   
 
 ---
