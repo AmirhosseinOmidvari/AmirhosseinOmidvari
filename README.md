@@ -24,7 +24,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="45" alt="Rust" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original-wordmark.svg" width="45" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML" />
@@ -34,22 +34,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="47%" />
-</p>
 
 ---
+
+
+
 
 ### 📫 Contact
 
-- Email: `your.email@example.com`
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Website: *Coming soon...*
+- Email: `amirhosein.omidvari83@gmail.com`
+- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/amirhossein-omidvari-947828345)
+  
 
 ---
 
