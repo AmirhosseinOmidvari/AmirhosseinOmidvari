@@ -35,10 +35,21 @@
 
 ---
 
+---
+
 ### 📜 Certificates
 
-- 🐍 [Python Programming Certificate – Quera](https://quera.org/certificate/ngcbwm39/)
-- 💻 [C++ Programming Certificate – Quera](https://quera.org/certificate/UmOZf243/)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" alt="Python" />
+  <a href="https://quera.org/certificate/ngcbwm39/" target="_blank">Python Programming Certificate – Quera</a>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" alt="C++" />
+  <a href="https://quera.org/certificate/UmOZf243/" target="_blank">C++ Programming Certificate – Quera</a>
+</p>
+
+---
 
 ---
 
