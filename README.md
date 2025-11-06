@@ -1,5 +1,5 @@
 <h1 align="center">This is Amirhossein Omidvari 👨‍💻</h1>
-<h3 align="center">A passionate Computer Engineering student and backend developer</h3>
+<h3 align="center">A Passionate Computer Engineering Student & Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Rustacean+%F0%9F%A6%80+Developer;Pythonic+Problem+Solver+%F0%9F%90%8D;C%2B%2B+Lover+%E2%9D%A4%EF%B8%8F;Learning+Frontend+%F0%9F%9A%80;Building+Clean+and+Modern+Software" alt="Typing SVG" />
