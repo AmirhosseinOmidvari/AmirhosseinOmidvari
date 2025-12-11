@@ -12,7 +12,7 @@
 
 - 🎓 Computer Engineering student at University of Isfahan  
 - 💻 Passionate about backend development,system programming, and modern frontend development
-- 🐍 lled in Python with strong experience in scripting, automation, and backend engineering
+- 🐍 skilled in Python with strong experience in scripting, automation, and backend engineering
 - 🟩 Django backend developer  
 - 🦀 Rustacean — safe & blazing-fast systems  
 - 💡 C++ background — strong in data structures & algorithms  
