@@ -2,20 +2,21 @@
 <h3 align="center">A Passionate Computer Engineering Student & Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Pythonic+Problem+Solver+%F0%9F%90%8D;Django+Backend+Developer+%F0%9F%94%97;Rustacean+%F0%9F%A6%80+Systems+Developer;C%2B%2B+Lover+%E2%9D%A4%EF%B8%8F;Learning+Frontend+%F0%9F%9A%80;Building+Clean+and+Modern+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Proficient+in+Python+%F0%9F%90%8D;Django+Backend+Engineer+%F0%9F%94%97;Rust+Systems+Developer+%F0%9F%A6%80;C%2B%2B+Expert+%E2%9D%A4;Frontend+Development+%F0%9F%9A%80;Crafting+Clean+and+Modern+Software" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ### 🧑‍💼 About Me
 
 - 🎓 Computer Engineering student at University of Isfahan  
-- 💻 Passionate about backend development and system programming  
-- 🐍 Python lover — scripting, automation, backend  
+- 💻 Passionate about backend development,system programming, and modern frontend development
+- 🐍 lled in Python with strong experience in scripting, automation, and backend engineering
 - 🟩 Django backend developer  
 - 🦀 Rustacean — safe & blazing-fast systems  
 - 💡 C++ background — strong in data structures & algorithms  
-- 🌐 Learning frontend: HTML, CSS, JavaScript, Tailwind CSS  
+- 🌐 Experienced in frontend development using HTML, CSS, JavaScript, and Tailwind CSS
 - 📊 Interested in real-world projects, especially fintech and dev tools  
 - 🚀 Always striving to learn, improve, and ship better code
 
