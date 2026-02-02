@@ -54,19 +54,32 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux" />
 </p>
 
+
 ---
 
 ### 📜 Certificates
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" alt="Python" />
-  <a href="https://quera.org/certificate/ngcbwm39/" target="_blank">Python Programming Certificate – Quera</a>
+  <a href="https://quera.org/certificate/ngcbwm39/" target="_blank">
+    Python Programming Certificate – Quera
+  </a>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" alt="Python Advanced" />
+  <a href="https://maktabkhooneh.org/certificates/MK-XAHJJY/?show_actions=true&lang=en" target="_blank">
+    Advanced Python Certificate – Maktabkhooneh
+  </a>
 </p>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" alt="C++" />
-  <a href="https://quera.org/certificate/UmOZf243/" target="_blank">C++ Programming Certificate – Quera</a>
+  <a href="https://quera.org/certificate/UmOZf243/" target="_blank">
+    C++ Programming Certificate – Quera
+  </a>
 </p>
+
 
 ---
 
