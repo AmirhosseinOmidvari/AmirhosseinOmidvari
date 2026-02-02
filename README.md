@@ -65,7 +65,12 @@
     Advanced Comprehensive Python Certificate – Maktabkhooneh
   </a>
 </p>
-
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" alt="Python OOP" />
+  <a href="https://maktabkhooneh.org/certificates/MK-RVYLGB/?show_actions=true&lang=en" target="_blank">
+    Advanced Python Object-Oriented Programming (OOP) Certificate – Maktabkhooneh
+  </a>
+</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" alt="Python" />
