@@ -85,7 +85,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" alt="Python" />
   <a href="https://quera.org/certificate/ngcbwm39/" target="_blank">
-    Python Programming Certificate – Quera
+  Foundations of Python Programming Certificate – Quera
   </a>
 </p>
 
