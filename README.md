@@ -92,7 +92,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" alt="C++" />
   <a href="https://quera.org/certificate/UmOZf243/" target="_blank">
-    C++ Programming Certificate – Quera
+    Comprehensive C++ Programming Certificate – Quera
   </a>
 </p>
 
