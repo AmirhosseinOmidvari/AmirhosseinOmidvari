@@ -59,6 +59,16 @@
 
 ### 📜 Certificates
 
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" alt="Python Advanced" />
+  <a href="https://quera.org/certificate/y0CAA71J/" target="_blank">
+    Elite Python Mastery Certificate – Quera
+  </a>
+</p>
+<p>
+
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" alt="Python Advanced" />
   <a href="https://maktabkhooneh.org/certificates/MK-XAHJJY/?show_actions=true&lang=en" target="_blank">
